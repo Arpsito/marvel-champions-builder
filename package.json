@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
+    "dev": "cp data/web/*.json public/data/ && next dev",
+    "build": "cp data/web/*.json public/data/ && next build",
     "start": "next start",
     "cli": "tsx src/prototype/cli.ts",
     "test": "echo \"Error: no test specified\" && exit 1"

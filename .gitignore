@@ -1,6 +1,9 @@
 # Dependencies
 node_modules/
 
+# Derived data in public/ (copied from data/web/ during build)
+public/data/*.json
+
 # Next.js build output
 .next/
 dist/
