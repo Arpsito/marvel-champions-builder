@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Next.js build output
+.next/
+dist/
+out/
+
+# Raw API data (large — fetched via data/fetch_*.py scripts)
+data/raw/
+
+# Intermediate processed data (large — regenerated via data pipeline)
+data/processed/filtered_decks.json
+data/processed/cooccurrence/
+
+# Environment
+.env
+.env*.local
+
+# IDE / OS
+.DS_Store
+*.swp
+.vscode/
+.idea/
+
+# Claude Code
+.claude/
+
+# TypeScript build info
+tsconfig.tsbuildinfo

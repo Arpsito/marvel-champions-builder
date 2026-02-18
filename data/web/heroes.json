@@ -1,0 +1,506 @@
+[
+  {
+    "code": "21031a",
+    "name": "Adam Warlock",
+    "alter_ego": "Adam Warlock",
+    "traits": "Guardian. Mystic.",
+    "imagesrc": "/bundles/cards/21031a.png",
+    "total_decks": 831
+  },
+  {
+    "code": "42001a",
+    "name": "Angel",
+    "alter_ego": "Warren Worthington III",
+    "traits": "Aerial. X-Force.",
+    "imagesrc": "/bundles/cards/42001a.png",
+    "total_decks": 362
+  },
+  {
+    "code": "12001a",
+    "name": "Ant-Man",
+    "alter_ego": "Scott Lang",
+    "traits": "Avenger. Tiny.",
+    "imagesrc": "/bundles/cards/12001a.png",
+    "total_decks": 852
+  },
+  {
+    "code": "45001a",
+    "name": "Bishop",
+    "alter_ego": "Lucas Bishop",
+    "traits": "Temporal. X-Men.",
+    "imagesrc": "/bundles/cards/45001a.png",
+    "total_decks": 375
+  },
+  {
+    "code": "01040a",
+    "name": "Black Panther",
+    "alter_ego": "T'Challa",
+    "traits": "Avenger. Wakanda.",
+    "imagesrc": "/bundles/cards/01040a.png",
+    "total_decks": 1422
+  },
+  {
+    "code": "51001a",
+    "name": "Black Panther",
+    "alter_ego": "Shuri",
+    "traits": "Wakanda.",
+    "imagesrc": "/bundles/cards/51001a.png",
+    "total_decks": 132
+  },
+  {
+    "code": "08001a",
+    "name": "Black Widow",
+    "alter_ego": "Natasha Romanoff",
+    "traits": "Avenger. Spy.",
+    "imagesrc": "/bundles/cards/08001a.png",
+    "total_decks": 1354
+  },
+  {
+    "code": "40001a",
+    "name": "Cable",
+    "alter_ego": "Nathan Summers",
+    "traits": "Soldier. X-Force.",
+    "imagesrc": "/bundles/cards/40001a.png",
+    "total_decks": 538
+  },
+  {
+    "code": "03001a",
+    "name": "Captain America",
+    "alter_ego": "Steve Rogers",
+    "traits": "Avenger. Soldier.",
+    "imagesrc": "/bundles/cards/03001a.png",
+    "total_decks": 2270
+  },
+  {
+    "code": "01010a",
+    "name": "Captain Marvel",
+    "alter_ego": "Carol Danvers",
+    "traits": "Avenger. Soldier.",
+    "imagesrc": "/bundles/cards/01010a.png",
+    "total_decks": 1524
+  },
+  {
+    "code": "32001a",
+    "name": "Colossus",
+    "alter_ego": "Piotr Rasputin",
+    "traits": "X-Men.",
+    "imagesrc": "/bundles/cards/32001a.png",
+    "total_decks": 627
+  },
+  {
+    "code": "33001a",
+    "name": "Cyclops",
+    "alter_ego": "Scott Summers",
+    "traits": "X-Men.",
+    "imagesrc": "/bundles/cards/33001a.png",
+    "total_decks": 884
+  },
+  {
+    "code": "44001a",
+    "name": "Deadpool",
+    "alter_ego": "Wade Wilson",
+    "traits": "Deadpool Corps. X-Force.",
+    "imagesrc": "/bundles/cards/44001a.png",
+    "total_decks": 276
+  },
+  {
+    "code": "09001a",
+    "name": "Doctor Strange",
+    "alter_ego": "Stephen Strange",
+    "traits": "Avenger. Mystic.",
+    "imagesrc": "/bundles/cards/09001a.png",
+    "total_decks": 1489
+  },
+  {
+    "code": "40037a",
+    "name": "Domino",
+    "alter_ego": "Neena Thurman",
+    "traits": "Posse. X-Force.",
+    "imagesrc": "/bundles/cards/40037a.png",
+    "total_decks": 398
+  },
+  {
+    "code": "19001a",
+    "name": "Drax",
+    "alter_ego": "Drax",
+    "traits": "Guardian.",
+    "imagesrc": "/bundles/cards/19001a.png",
+    "total_decks": 686
+  },
+  {
+    "code": "53001a",
+    "name": "Falcon",
+    "alter_ego": "Sam Wilson",
+    "traits": "Aerial. Avenger.",
+    "imagesrc": "/bundles/cards/53001a.png",
+    "total_decks": 178
+  },
+  {
+    "code": "37001a",
+    "name": "Gambit",
+    "alter_ego": "Remy LeBeau",
+    "traits": "Thief. X-Men.",
+    "imagesrc": "/bundles/cards/37001a.png",
+    "total_decks": 538
+  },
+  {
+    "code": "18001a",
+    "name": "Gamora",
+    "alter_ego": "Gamora",
+    "traits": "Guardian.",
+    "imagesrc": "/bundles/cards/18001a.png",
+    "total_decks": 733
+  },
+  {
+    "code": "27001a",
+    "name": "Ghost-Spider",
+    "alter_ego": "Gwen Stacy",
+    "traits": "Web-Warrior.",
+    "imagesrc": "/bundles/cards/27001a.png",
+    "total_decks": 718
+  },
+  {
+    "code": "16001a",
+    "name": "Groot",
+    "alter_ego": "Groot",
+    "traits": "Guardian.",
+    "imagesrc": "/bundles/cards/16001a.png",
+    "total_decks": 657
+  },
+  {
+    "code": "04001a",
+    "name": "Hawkeye",
+    "alter_ego": "Clint Barton",
+    "traits": "Avenger.",
+    "imagesrc": "/bundles/cards/04001a.png",
+    "total_decks": 976
+  },
+  {
+    "code": "10001a",
+    "name": "Hulk",
+    "alter_ego": "Bruce Banner",
+    "traits": "Avenger. Gamma.",
+    "imagesrc": "/bundles/cards/10001a.png",
+    "total_decks": 1441
+  },
+  {
+    "code": "56029a",
+    "name": "Hulkling",
+    "alter_ego": "Teddy Altman",
+    "traits": "Avenger. Kree. Skrull.",
+    "imagesrc": "/bundles/cards/56029a.png",
+    "total_decks": 123
+  },
+  {
+    "code": "46001a",
+    "name": "Iceman",
+    "alter_ego": "Bobby Drake",
+    "traits": "Ice. X-Men.",
+    "imagesrc": "/bundles/cards/46001a.png",
+    "total_decks": 294
+  },
+  {
+    "code": "01029a",
+    "name": "Iron Man",
+    "alter_ego": "Tony Stark",
+    "traits": "Avenger.",
+    "imagesrc": "/bundles/cards/01029a.png",
+    "total_decks": 1858
+  },
+  {
+    "code": "29001a",
+    "name": "Ironheart",
+    "alter_ego": "Riri Williams",
+    "traits": "Champion. Version 1.",
+    "imagesrc": "/bundles/cards/29001a.png",
+    "total_decks": 541
+  },
+  {
+    "code": "47001a",
+    "name": "Jubilee",
+    "alter_ego": "Jubilation Lee",
+    "traits": "X-Men.",
+    "imagesrc": "/bundles/cards/47001a.png",
+    "total_decks": 238
+  },
+  {
+    "code": "45030a",
+    "name": "Magik",
+    "alter_ego": "Illyana Rasputin",
+    "traits": "Mystic. X-Men.",
+    "imagesrc": "/bundles/cards/45030a.png",
+    "total_decks": 436
+  },
+  {
+    "code": "49001a",
+    "name": "Magneto",
+    "alter_ego": "Erik Lehnsherr",
+    "traits": "X-Men.",
+    "imagesrc": "/bundles/cards/49001a.png",
+    "total_decks": 228
+  },
+  {
+    "code": "50001a",
+    "name": "Maria Hill",
+    "alter_ego": "Maria Hill",
+    "traits": "S.H.I.E.L.D. Spy.",
+    "imagesrc": "/bundles/cards/50001a.png",
+    "total_decks": 176
+  },
+  {
+    "code": "05001a",
+    "name": "Ms. Marvel",
+    "alter_ego": "Kamala Khan",
+    "traits": "Champion. Inhuman.",
+    "imagesrc": "/bundles/cards/05001a.png",
+    "total_decks": 1138
+  },
+  {
+    "code": "22001a",
+    "name": "Nebula",
+    "alter_ego": "Nebula",
+    "traits": "Guardian.",
+    "imagesrc": "/bundles/cards/22001a.png",
+    "total_decks": 366
+  },
+  {
+    "code": "50034a",
+    "name": "Nick Fury",
+    "alter_ego": "Nick Fury",
+    "traits": "S.H.I.E.L.D. Soldier. Spy.",
+    "imagesrc": "/bundles/cards/50034a.png",
+    "total_decks": 135
+  },
+  {
+    "code": "48001a",
+    "name": "Nightcrawler",
+    "alter_ego": "Kurt Wagner",
+    "traits": "X-Men.",
+    "imagesrc": "/bundles/cards/48001a.png",
+    "total_decks": 290
+  },
+  {
+    "code": "28001a",
+    "name": "Nova",
+    "alter_ego": "Sam Alexander",
+    "traits": "Champion.",
+    "imagesrc": "/bundles/cards/28001a.png",
+    "total_decks": 460
+  },
+  {
+    "code": "34001a",
+    "name": "Phoenix",
+    "alter_ego": "Jean Grey",
+    "traits": "Psionic. X-Men.",
+    "imagesrc": "/bundles/cards/34001a.png",
+    "total_decks": 532
+  },
+  {
+    "code": "41001a",
+    "name": "Psylocke",
+    "alter_ego": "Betsy Braddock",
+    "traits": "Psionic. X-Force.",
+    "imagesrc": "/bundles/cards/41001a.png",
+    "total_decks": 350
+  },
+  {
+    "code": "14001a",
+    "name": "Quicksilver",
+    "alter_ego": "Pietro Maximoff",
+    "traits": "Avenger.",
+    "imagesrc": "/bundles/cards/14001a.png",
+    "total_decks": 1119
+  },
+  {
+    "code": "16029a",
+    "name": "Rocket Raccoon",
+    "alter_ego": "Rocket Raccoon",
+    "traits": "Guardian.",
+    "imagesrc": "/bundles/cards/16029a.png",
+    "total_decks": 809
+  },
+  {
+    "code": "38001a",
+    "name": "Rogue",
+    "alter_ego": "Anna Marie",
+    "traits": "X-Men.",
+    "imagesrc": "/bundles/cards/38001a.png",
+    "total_decks": 416
+  },
+  {
+    "code": "31001a",
+    "name": "SP//dr Suit",
+    "alter_ego": null,
+    "traits": "Active. Web-Warrior.",
+    "imagesrc": "/bundles/cards/31001a.png",
+    "total_decks": 483
+  },
+  {
+    "code": "15001a",
+    "name": "Scarlet Witch",
+    "alter_ego": "Wanda Maximoff",
+    "traits": "Avenger. Mystic.",
+    "imagesrc": "/bundles/cards/15001a.png",
+    "total_decks": 899
+  },
+  {
+    "code": "32030a",
+    "name": "Shadowcat",
+    "alter_ego": "Kitty Pryde",
+    "traits": "X-Men.",
+    "imagesrc": "/bundles/cards/32030a.png",
+    "total_decks": 428
+  },
+  {
+    "code": "01019a",
+    "name": "She-Hulk",
+    "alter_ego": "Jennifer Walters",
+    "traits": "Avenger. Gamma.",
+    "imagesrc": "/bundles/cards/01019a.png",
+    "total_decks": 1207
+  },
+  {
+    "code": "52001a",
+    "name": "Silk",
+    "alter_ego": "Cindy Moon",
+    "traits": "Web-Warrior.",
+    "imagesrc": "/bundles/cards/52001a.png",
+    "total_decks": 139
+  },
+  {
+    "code": "21001a",
+    "name": "Spectrum",
+    "alter_ego": "Monica Rambeau",
+    "traits": "Aerial. Avenger.",
+    "imagesrc": "/bundles/cards/21001a.png",
+    "total_decks": 473
+  },
+  {
+    "code": "30001a",
+    "name": "Spider-Ham",
+    "alter_ego": "Peter Porker",
+    "traits": "Cartoon. Web-Warrior.",
+    "imagesrc": "/bundles/cards/30001a.png",
+    "total_decks": 441
+  },
+  {
+    "code": "01001a",
+    "name": "Spider-Man",
+    "alter_ego": "Peter Parker",
+    "traits": "Avenger.",
+    "imagesrc": "/bundles/cards/01001a.png",
+    "total_decks": 2118
+  },
+  {
+    "code": "27030a",
+    "name": "Spider-Man",
+    "alter_ego": "Miles Morales",
+    "traits": "Champion. Web-Warrior.",
+    "imagesrc": "/bundles/cards/27030a.png",
+    "total_decks": 577
+  },
+  {
+    "code": "04031a",
+    "name": "Spider-Woman",
+    "alter_ego": "Jessica Drew",
+    "traits": "Avenger. Spy.",
+    "imagesrc": "/bundles/cards/04031a.png",
+    "total_decks": 1701
+  },
+  {
+    "code": "17001a",
+    "name": "Star-Lord",
+    "alter_ego": "Peter Quill",
+    "traits": "Guardian.",
+    "imagesrc": "/bundles/cards/17001a.png",
+    "total_decks": 892
+  },
+  {
+    "code": "36001a",
+    "name": "Storm",
+    "alter_ego": "Ororo Munroe",
+    "traits": "X-Men.",
+    "imagesrc": "/bundles/cards/36001a.png",
+    "total_decks": 372
+  },
+  {
+    "code": "06001a",
+    "name": "Thor",
+    "alter_ego": "Odinson",
+    "traits": "Asgard. Avenger.",
+    "imagesrc": "/bundles/cards/06001a.png",
+    "total_decks": 1467
+  },
+  {
+    "code": "56001a",
+    "name": "Tigra",
+    "alter_ego": "Greer Nelson",
+    "traits": "Avenger.",
+    "imagesrc": "/bundles/cards/56001a.png",
+    "total_decks": 127
+  },
+  {
+    "code": "25001a",
+    "name": "Valkyrie",
+    "alter_ego": "Brunnhilde",
+    "traits": "Asgard. Avenger.",
+    "imagesrc": "/bundles/cards/25001a.png",
+    "total_decks": 297
+  },
+  {
+    "code": "20001a",
+    "name": "Venom",
+    "alter_ego": "Flash Thompson",
+    "traits": "Guardian. Space Knight.",
+    "imagesrc": "/bundles/cards/20001a.png",
+    "total_decks": 1001
+  },
+  {
+    "code": "26001a",
+    "name": "Vision",
+    "alter_ego": "Vision",
+    "traits": "Android. Avenger.",
+    "imagesrc": "/bundles/cards/26001a.png",
+    "total_decks": 469
+  },
+  {
+    "code": "23001a",
+    "name": "War Machine",
+    "alter_ego": "James Rhodes",
+    "traits": "Avenger. Soldier.",
+    "imagesrc": "/bundles/cards/23001a.png",
+    "total_decks": 657
+  },
+  {
+    "code": "13001a",
+    "name": "Wasp",
+    "alter_ego": "Nadia Van Dyne",
+    "traits": "Avenger. Tiny.",
+    "imagesrc": "/bundles/cards/13001a.png",
+    "total_decks": 531
+  },
+  {
+    "code": "54001a",
+    "name": "Winter Soldier",
+    "alter_ego": "Bucky Barnes",
+    "traits": "S.H.I.E.L.D. Soldier.",
+    "imagesrc": "/bundles/cards/54001a.png",
+    "total_decks": 281
+  },
+  {
+    "code": "35001a",
+    "name": "Wolverine",
+    "alter_ego": "Logan",
+    "traits": "X-Men.",
+    "imagesrc": "/bundles/cards/35001a.png",
+    "total_decks": 807
+  },
+  {
+    "code": "43001a",
+    "name": "X-23",
+    "alter_ego": "Laura Kinney",
+    "traits": "X-Force.",
+    "imagesrc": "/bundles/cards/43001a.png",
+    "total_decks": 433
+  }
+]
